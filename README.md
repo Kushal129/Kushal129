@@ -24,8 +24,8 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 
 ## Let's Connect!
 - 📧 Drop me an email: 21bmiit129@gmail.com
-- [![LinkedIn](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg )](https://www.linkedin.com/in/kushal-pipaliya)
-- [![GitHub](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg )](https://github.com/Kushal129)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/kushal-pipaliya)
+- [![GitHub]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushal129)
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
