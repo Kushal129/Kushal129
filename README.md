@@ -1,7 +1,5 @@
-
 # Hi there! 👋
 
-![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
 
 ## About Me
@@ -9,6 +7,8 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 - 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
+## Check Out My Moves 🚀
+![Profile GIF](INSERT_CORRECT_GIF_URL)
 
 ## Cyber Security & Penetration Testing
 - 🕵️ Actively engaged in ethical hacking methodologies.
@@ -26,17 +26,12 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 
 ## Let's Connect!
 - 📧 Drop me an email: 21bmiit129@gmail.com
-- [![LinkedIn](path_to_linkedin_logo)](https://www.linkedin.com/in/kushal-pipaliya)
-- [![GitHub](path_to_github_logo)](https://github.com/Kushal129)
+- [![LinkedIn](INSERT_CORRECT_LINKEDIN_LOGO_URL)](https://www.linkedin.com/in/kushal-pipaliya)
+- [![GitHub](INSERT_CORRECT_GITHUB_LOGO_URL)](https://github.com/Kushal129)
 
 ## Languages and Tech Toolbox
-- 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, TypeScript.
+- 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
 - 📱 Experienced in Android development.
-- 🛠️ Worked with Mysql,MongoDB, Firebase, and Blender.
+- 🛠️ Worked with MongoDB, Firebase, and Blender.
 
 Feel free to connect if you share an interest in secure and cutting-edge development! 🚀
-
-
-
-
-![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
