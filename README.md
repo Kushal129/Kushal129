@@ -1,9 +1,9 @@
 
-# Hi there! 👋
 <div id="header" align="center">
   <img src="gitimg.jpg" width="100%"/>
 </div>
-I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
+
+## I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
