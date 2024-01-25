@@ -32,10 +32,6 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-<a href="mailto:21bmiit129@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-</a>
-
 <a href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
@@ -45,10 +41,6 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 </a>
 
 </div>
-
-- 📧 Drop me an email: 21bmiit129@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/kushal-pipaliya)
-- [![GitHub]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushal129)
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
