@@ -24,7 +24,7 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 
 ## Let's Connect!
 
-<div style="text-decoration: none; display: inline-block;"> 
+<div style="display: inline-block;"> 
   <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
