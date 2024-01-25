@@ -1,10 +1,10 @@
-![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 # Hi there! 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="image.gif" width="100"/>
 </div>
 I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
-
+![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## About Me
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
 - 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
@@ -40,7 +40,6 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-
 
 
 ## Languages and Tech Toolbox
