@@ -30,7 +30,7 @@
 
 ## Let's Connect!
 
-<div class="grid-container">
+<div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; padding: 10px;">
 <div class="grid-item">
   <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
