@@ -30,23 +30,26 @@
 
 ## Let's Connect!
 
-<div style="display: flex; align-items: center;">
-
+<div class="grid-container">
+<div class="grid-item">
   <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
+</div>
+  <div class="grid-item">
   <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important; " href="mailto:21bmiit129@gmail.com" >
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-
+    </div>
+<div class="grid-item">
   <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a> 
-
+<div class="grid-item">
   <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://twitter.com/PipaliyaKu78237" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  </div>
 
 </div>
 
