@@ -8,7 +8,8 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
 ## Check Out My Moves 🚀
-![Profile GIF](INSERT_CORRECT_GIF_URL)
+![Alt Text](https://path_to_your_gif/animation.gif)
+
 
 ## Cyber Security & Penetration Testing
 - 🕵️ Actively engaged in ethical hacking methodologies.
@@ -26,8 +27,8 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 
 ## Let's Connect!
 - 📧 Drop me an email: 21bmiit129@gmail.com
-- [![LinkedIn](INSERT_CORRECT_LINKEDIN_LOGO_URL)](https://www.linkedin.com/in/kushal-pipaliya)
-- [![GitHub](INSERT_CORRECT_GITHUB_LOGO_URL)](https://github.com/Kushal129)
+- [![LinkedIn](https://www.pngwing.com/en/free-png-blebf)](https://www.linkedin.com/in/kushal-pipaliya)
+- [![GitHub]((https://www.pngwing.com/en/free-png-sxwft))](https://github.com/Kushal129)
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
