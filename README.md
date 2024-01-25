@@ -30,6 +30,7 @@
 
 ## Let's Connect!
 <div style="padding: 10px;">
+  <button src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></button>
   <div class="grid-item">
     <a style="text-decoration: none !important; color: none !important; " href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
