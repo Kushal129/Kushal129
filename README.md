@@ -1,6 +1,4 @@
-Sure, here's an updated version of your README file:
 
-```markdown
 # Hi 👋, I'm Kushal Pipaliya
 
 ## About Me
@@ -32,5 +30,3 @@ Sure, here's an updated version of your README file:
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ```
-
-Make sure to replace the placeholders and customize it further as needed.
