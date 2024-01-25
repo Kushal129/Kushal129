@@ -8,7 +8,7 @@
 
 ## About Me
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
-- 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
+- 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python,PHP,JSP,ASP.net and Android.
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
 ## Cyber Security & Penetration Testing
