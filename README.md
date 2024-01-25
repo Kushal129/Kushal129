@@ -3,7 +3,7 @@
   <img src="gitimg.jpg" width="100%"/>
 </div>
 
-## I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
+# Passionate Full Stack Developer with a keen Interest in Cyber Security and Penetration Testing.
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -20,11 +20,14 @@
   - Metasploit
   - Nmap
   - Wireshark
+  - etc.
 - 🚨 Experienced in identifying and addressing vulnerabilities in web applications.
 - 📚 Currently delving into advanced topics like:
-  - Cryptography
-  - Secure coding practices
+  - Advanced Web Application Security
+  - Security Automation
+  - Threat Intelligence
   - Exploit development
+  - Secure coding practices
 
 ## Let's Connect!
 
@@ -43,12 +46,9 @@
   </a>
 </div>
 
-
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
 - 📱 Experienced in Android development.
 - 🛠️ Worked with MongoDB, Firebase, and Blender.
-
-Feel free to connect if you share an interest in secure and cutting-edge development! 🚀
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
