@@ -24,8 +24,8 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 
 ## Let's Connect!
 - 📧 Drop me an email: 21bmiit129@gmail.com
-- [![LinkedIn](https://www.pngwing.com/en/free-png-blebf)](https://www.linkedin.com/in/kushal-pipaliya)
-- [![GitHub]((https://www.pngwing.com/en/free-png-sxwft))](https://github.com/Kushal129)
+- [![LinkedIn](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg )](https://www.linkedin.com/in/kushal-pipaliya)
+- [![GitHub](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg )](https://github.com/Kushal129)
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
@@ -33,4 +33,5 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 - 🛠️ Worked with MongoDB, Firebase, and Blender.
 
 Feel free to connect if you share an interest in secure and cutting-edge development! 🚀
+
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
