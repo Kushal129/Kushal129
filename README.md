@@ -3,9 +3,8 @@
   <img src="gitimg.jpg" width="100%"/>
 </div>
 
-# Passionate Full Stack Developer with a keen Interest in Cyber Security and Penetration Testing.
-
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+# Passionate Full Stack Developer with a keen Interest in Cyber Security and Penetration Testing.
 
 ## About Me
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
