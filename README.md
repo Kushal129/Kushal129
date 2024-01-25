@@ -52,6 +52,15 @@
   </div>
 </div>
 
+<div class="container">
+  <div class="row">
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="w-100"></div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
