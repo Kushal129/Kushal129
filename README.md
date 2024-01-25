@@ -28,13 +28,13 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
   <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:21bmiit129@gmail.com">
+  <a style="text-decoration: none;color: inherit; " href="mailto:21bmiit129@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
+  <a style="text-decoration: none;color: inherit; " href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/PipaliyaKu78237" target="_blank">
+  <a style="text-decoration: none;color: inherit;" href="https://twitter.com/PipaliyaKu78237" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
