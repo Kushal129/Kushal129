@@ -1,3 +1,4 @@
+![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 # Hi there! 👋
 
 I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
@@ -6,10 +7,6 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
 - 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
-
-## Check Out My Moves 🚀
-![Alt Text](https://path_to_your_gif/animation.gif)
-
 
 ## Cyber Security & Penetration Testing
 - 🕵️ Actively engaged in ethical hacking methodologies.
@@ -36,3 +33,4 @@ I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in c
 - 🛠️ Worked with MongoDB, Firebase, and Blender.
 
 Feel free to connect if you share an interest in secure and cutting-edge development! 🚀
+![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
