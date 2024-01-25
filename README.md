@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 <div id="header" align="center">
-  <img src="b g.gif" width="100%"/>
+  <img src="gitimg.jpg" width="100%"/>
 </div>
 I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
 
