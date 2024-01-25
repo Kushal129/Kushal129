@@ -1,29 +1,37 @@
-# Hello there! 👋 I'm Kushal Pipaliya
+# Hi there! 👋
+
+I'm Kushal Pipaliya, a passionate Full Stack Developer with a keen interest in cyber security and penetration testing.
 
 ## About Me
-- Passionate Front-End Web Developer, diving into cyber security and penetration testing.
-- Currently on a journey to master Full Stack Development and Ethical Hacking.
-
-## What I'm Into
-- Exploring the realms of HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
-
-## Let's Connect!
-- 📧 Reach me at: 21bmiit129@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/kushal-pipaliya)
-- [GitHub](https://github.com/Kushal129)
-
-## Social Coding
-- [LeetCode](https://www.leetcode.com/vishalpawar26)
-- [Geeks for Geeks](https://auth.geeksforgeeks.org/user/vishalp0tnw)
-- [CodeChef](https://www.codechef.com/users/vishal026)
-
-## Languages and Tech Toolbox
-- C++, C#, Java, Python, HTML, CSS, React, NodeJs, MongoDB, Firebase, Flutter, Figma, Blender, Unity.
-
-## My Coding Playground
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kushal129&theme=2077)
-![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushal129&theme=2077)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushal129&theme=2077)
+- 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
+- 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python, and PHP.
+- 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
 ## Check Out My Moves 🚀
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## Cyber Security & Penetration Testing
+- 🕵️ Actively engaged in ethical hacking methodologies.
+- 🔐 Specializing in security concepts, ensuring applications are robust against threats.
+- 🛠️ Proficient in using Kali Linux tools such as:
+  - Burp Suite
+  - Metasploit
+  - Nmap
+  - Wireshark
+- 🚨 Experienced in identifying and addressing vulnerabilities in web applications.
+- 📚 Currently delving into advanced topics like:
+  - Cryptography
+  - Secure coding practices
+  - Exploit development
+
+## Let's Connect!
+- 📧 Drop me an email: 21bmiit129@gmail.com
+- [![LinkedIn](path_to_linkedin_logo)](https://www.linkedin.com/in/kushal-pipaliya)
+- [![GitHub](path_to_github_logo)](https://github.com/Kushal129)
+
+## Languages and Tech Toolbox
+- 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
+- 📱 Experienced in Android development.
+- 🛠️ Worked with MongoDB, Firebase, and Blender.
+
+Feel free to connect if you share an interest in secure and cutting-edge development! 🚀
