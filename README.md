@@ -30,17 +30,17 @@
 
 ## Let's Connect!
 
-<div style="text-decoration: none !important; color: inherit;">
-  <a style="text-decoration: none !important; color: inherit;" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
+<div>
+  <a style="text-decoration: none !important; color:  none !important;" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a style="text-decoration: none !important; color: inherit;" href="mailto:21bmiit129@gmail.com" >
+  <a style="text-decoration: none !important; color:  none !important;" href="mailto:21bmiit129@gmail.com" >
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a style="text-decoration: none !important; color: inherit;" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
+  <a style="text-decoration: none !important; color:  none !important;" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a style="text-decoration: none !important; color: inherit;" href="https://twitter.com/PipaliyaKu78237" target="_blank">
+  <a style="text-decoration: none !important; color: none !important;" href="https://twitter.com/PipaliyaKu78237" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
