@@ -29,38 +29,26 @@
   - Secure coding practices
 
 ## Let's Connect!
-<div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; padding: 10px;">
+<div style="padding: 10px;">
   <div class="grid-item">
-    <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
+    <a style="text-decoration: none !important; color: none !important; " href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-  </div>
-  <div class="grid-item">
-    <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important; " href="mailto:21bmiit129@gmail.com" >
+ 
+    <a style="text-decoration: none !important; color: none !important;  " href="mailto:21bmiit129@gmail.com" >
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-  </div>
-  <div class="grid-item">
-    <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
+  
+    <a style="text-decoration: none !important; color: none !important; " href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a> 
-  </div>
-  <div class="grid-item">
-    <a style="text-decoration: none !important; color: none !important; margin-right: 15px !important;" href="https://twitter.com/PipaliyaKu78237" target="_blank">
+  
+    <a style="text-decoration: none !important; color: none !important; " href="https://twitter.com/PipaliyaKu78237" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
   </div>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="w-100"></div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-  </div>
-</div>
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
