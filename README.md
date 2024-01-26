@@ -53,9 +53,11 @@
 - 🛠️ Worked with Mysql , MongoDB, Firebase, and Blender.
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center" style="color:#FDBD01" >Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center" style="font-size: 1.25em;
+    background: #2c043457;
+    color: #ea42ff" >Statistics</h3>
 <div align="center">
-<a href="https://github.com/Kushal129">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal129&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushal129&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal129&theme=2077" height="180em" />
