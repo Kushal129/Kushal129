@@ -30,22 +30,14 @@
 
 ## Let's Connect!
 <div style="padding: 10px;">
-  <button src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></button>
+  <button style="background-color: #0077B5; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://www.linkedin.com/in/kushal-pipaliya', '_blank')">LinkedIn</button>
   <div class="grid-item">
-    <a style="text-decoration: none !important; color: none !important; " href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a style="text-decoration: none !important; color: none !important;  " href="mailto:21bmiit129@gmail.com" >
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a style="text-decoration: none !important; color: none !important; " href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a> 
-    <a style="text-decoration: none !important; color: none !important; " href="https://twitter.com/PipaliyaKu78237" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
+    <button style="background-color: #333; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('mailto:21bmiit129@gmail.com')">Gmail</button>
+    <button style="background-color: #E4405F; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://www.instagram.com/_kushal_pipaliya/', '_blank')">Instagram</button>
+    <button style="background-color: #1DA1F2; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://twitter.com/PipaliyaKu78237', '_blank')">Twitter</button>
   </div>
 </div>
+
 
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell , JavaScript.
