@@ -27,15 +27,21 @@
   - Threat Intelligence
   - Exploit development
   - Secure coding practices
-
+    
 ## Let's Connect!
 <div style="padding: 10px;">
-  <button style="background-color: #0077B5; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://www.linkedin.com/in/kushal-pipaliya', '_blank')">LinkedIn</button>
-  <div class="grid-item">
-    <button style="background-color: #333; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('mailto:21bmiit129@gmail.com')">Gmail</button>
-    <button style="background-color: #E4405F; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://www.instagram.com/_kushal_pipaliya/', '_blank')">Instagram</button>
-    <button style="background-color: #1DA1F2; color: white; padding: 5px; border: none; text-decoration: none !important;" onclick="window.open('https://twitter.com/PipaliyaKu78237', '_blank')">Twitter</button>
-  </div>
+  <a href="https://www.linkedin.com/in/kushal-pipaliya" style="text-decoration: none;">
+    <button style="background-color: #0077B5; color: white; padding: 5px; border: none; text-decoration: none !important;">LinkedIn</button>
+  </a>
+    <a href="mailto:21bmiit129@gmail.com" style="text-decoration: none;">
+      <button style="background-color: #333; color: white; padding: 5px; border: none; text-decoration: none !important;">Gmail</button>
+    </a>
+    <a href="https://www.instagram.com/_kushal_pipaliya/" style="text-decoration: none;">
+      <button style="background-color: #E4405F; color: white; padding: 5px; border: none; text-decoration: none !important;">Instagram</button>
+    </a>
+    <a href="https://twitter.com/PipaliyaKu78237" style="text-decoration: none;">
+      <button style="background-color: #1DA1F2; color: white; padding: 5px; border: none; text-decoration: none !important;">Twitter</button>
+    </a>
 </div>
 
 
