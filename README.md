@@ -8,7 +8,7 @@
 
 ## About Me
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
-- 🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Python,PHP,JSP,ASP.net and Android.
+- 🚀 On a journey to explore HTML5 , CSS3 , JavaScript , C++ , C# , Java , Shell , Python , PHP , JSP , ASP.net and Android.
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
 ## Cyber Security & Penetration Testing
@@ -48,12 +48,12 @@
 </div>
 
 ## Languages and Tech Toolbox
-- 👨‍💻 Proficient in C++, C#, Java, Python, HTML, CSS, React.
+- 👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell , JavaScript.
 - 📱 Experienced in Android development.
-- 🛠️ Worked with MongoDB, Firebase, and Blender.
+- 🛠️ Worked with Mysql , MongoDB, Firebase, and Blender.
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center" style="colour:#FDBD01" >Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center" style="color:#FDBD01" >Statistics</h3>
 <div align="center">
 <a href="https://github.com/Kushal129">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal129&theme=2077" height="180em" />
