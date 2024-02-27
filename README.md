@@ -44,8 +44,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center" style="font-size: 1.25em;
-    background: #2c043457;
+<h3 align="center" style="font-size: 2.25em;
     color: #ea42ff" >Statistics</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal129&theme=2077" height="180em" />
