@@ -45,7 +45,7 @@
   <a href="https://twitter.com/PipaliyaKu78237" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:21bmiit129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.instagram.com/_kushal_pipaliya/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://kushalpipaliyaportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: #333; font-weight: bold; font-size: 16px; border: 2px solid #333; padding: 8px 12px; border-radius: 5px;">Portfolio</a>
+  <a href="https://kushalpipaliyaportfolio.netlify.app/" target="_blank" style="text-decoration: none; background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 5px;">Portfolio</a>
 
 </div>
 
