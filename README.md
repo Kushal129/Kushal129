@@ -40,7 +40,7 @@
   <a href="https://twitter.com/PipaliyaKu78237" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:21bmiit129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.instagram.com/_kushal_pipaliya/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://kushalpipaliyaportfolio.netlify.app/"><img src="https://static.vecteezy.com/system/resources/previews/011/054/403/non_2x/portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg" target="_blank"></a>
+  <a href = "https://kushalpipaliyaportfolio.netlify.app/" ><img class="w-1/2 " src="https://static.vecteezy.com/system/resources/previews/011/054/403/non_2x/portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg" target="_blank"></a>
 </div>
 
 
