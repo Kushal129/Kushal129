@@ -40,7 +40,9 @@
   <a href="https://twitter.com/PipaliyaKu78237" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:21bmiit129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.instagram.com/_kushal_pipaliya/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://kushalpipaliyaportfolio.netlify.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/2021portfolio-logomobile.svg" target="_blank"></a>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
