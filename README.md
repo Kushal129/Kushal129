@@ -1,8 +1,12 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-<div id="header" align="center">
-  <img src="gitimg.jpg" width="100%"/>
-</div>
+</head>
+<body>
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 # Passionate Full Stack Developer with a keen Interest in Cyber Security and Penetration Testing.
@@ -62,3 +66,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kushal129/count.svg?"  />
 </div>
+</body>
+</html>
