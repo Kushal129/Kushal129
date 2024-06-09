@@ -8,7 +8,8 @@
 <body>
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<p align="center">Hi, here Kushal Pipaliya 👋</p>
+<h1 align="center">Hi, here Kushal Pipaliya 👋</h1>
+
 
 ## About Me
 -  Passionate Web Developer with a keen Interest in Cyber Security
