@@ -7,9 +7,7 @@
 </head>
 <body>
 
-![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <h1 align="center">Hi, here Kushal Pipaliya 👋</h1>
-
 
 ## About Me
 -  Passionate Web Developer with a keen Interest in Cyber Security
@@ -41,12 +39,12 @@
 
 ## Let's Connect!
 <p align="center">
-  <div> 
-    <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/PipaliyaKu78237" target="_blank" ><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="mailto:21bmiit129@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/_kushal_pipaliya/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <div  align="center"> 
+    <a  align="center" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a  align="center" href="https://twitter.com/PipaliyaKu78237" target="_blank" ><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a  align="center" href="mailto:21bmiit129@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a  align="center" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a  align="center" href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   </div>
 </p>
 
