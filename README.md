@@ -4,12 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-
 </head>
 <body>
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-# Passionate Full Stack Developer with a keen Interest in Cyber Security and Penetration Testing.
+# Hi, here Kushal Pipaliya 👋 Passionate Web Developer with a keen Interest in Cyber Security.
 
 ## About Me
 - 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
