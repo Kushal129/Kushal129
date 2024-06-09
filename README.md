@@ -8,10 +8,11 @@
 <body>
 
 ![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-# Hi, here Kushal Pipaliya 👋 Passionate Web Developer with a keen Interest in Cyber Security.
+<div class="text-center">Hi, here Kushal Pipaliya 👋 </div>
 
 ## About Me
-- 💻 Currently mastering Full Stack Development with a focus on robust and secure applications.
+-  Passionate Web Developer with a keen Interest in Cyber Security
+- 💻 Currently mastering Web Development with a focus on robust and secure applications.
 - 🚀 On a journey to explore HTML5 , CSS3 , JavaScript , C++ , C# , Java , Shell , Python , PHP , JSP , ASP.net and Android.
 - 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
@@ -32,7 +33,6 @@
   - Exploit development
   - Secure coding practices
     
-
 ## Languages and Tech Toolbox
 - 👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell , JavaScript.
 - 📱 Experienced in Android development.
@@ -46,7 +46,6 @@
 <a href="https://www.instagram.com/_kushal_pipaliya/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center" style="font-size: 2.25em;
