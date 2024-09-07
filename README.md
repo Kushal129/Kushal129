@@ -12,9 +12,9 @@
 <section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg">
   <h2 class="text-2xl font-semibold mb-4">About Me</h2>
   <ul class="list-disc list-inside mb-4">
-    <li>Passionate Web Developer with a keen Interest in Cyber Security</li>
+    <li>Passionate Web Developer with a keen interest in Cyber Security</li>
     <li>💻 Currently mastering Web Development with a focus on robust and secure applications.</li>
-    <li>🚀 On a journey to explore HTML5, CSS3, JavaScript, C++, C#, Java, Shell, Python, PHP, JSP, ASP.NET, and Android.</li>
+    <li>🚀 On a journey to explore HTML5, CSS3, Tailwind CSS, JavaScript, React.js, C++, C#, Java, Shell, Python, PHP, JSP, ASP.NET, and Android.</li>
     <li>🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.</li>
   </ul>
 </section>
@@ -23,7 +23,8 @@
   <h2 class="text-2xl font-semibold mb-4">Cyber Security & Penetration Testing</h2>
   <ul class="list-disc list-inside mb-4">
     <li>🕵️ Actively engaged in ethical hacking methodologies.</li>
-    <li>🔐 Specializing in security concepts, ensuring applications are robust against threats.</li>
+    <li>🔐 Specializing in security concepts to ensure applications are robust against threats.</li>
+    <li>🌐 Explore my cybersecurity website: <a href="https://smartlearningwithkhp.netlify.app/" class="text-blue-500 hover:underline">Smart Learning with KHP</a></li>
     <li>🛠️ Proficient in using Kali Linux tools such as:
       <ul class="list-disc list-inside ml-6">
         <li>Burp Suite</li>
@@ -41,6 +42,16 @@
         <li>Threat Intelligence</li>
         <li>Exploit Development</li>
         <li>Secure Coding Practices</li>
+      </ul>
+    </li>
+    <li>🔍 Engaged in continuous learning through Capture The Flag (CTF) challenges and vulnerability research.</li>
+    <li>📜 Writing articles and tutorials on cybersecurity to share knowledge with the community.</li>
+    <li>🔧 Utilizing advanced techniques like:
+      <ul class="list-disc list-inside ml-6">
+        <li>Network Traffic Analysis</li>
+        <li>Incident Response</li>
+        <li>Forensics</li>
+        <li>Social Engineering</li>
       </ul>
     </li>
   </ul>
