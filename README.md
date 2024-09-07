@@ -60,7 +60,7 @@
 <section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6">
   <h2 class="text-2xl font-semibold mb-4">Languages and Tech Toolbox</h2>
   <ul class="list-disc list-inside mb-4">
-    <li>👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell, JavaScript.</li>
+    <li>👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell, JavaScript, React.js, and Tailwind CSS.</li>
     <li>📱 Experienced in Android development.</li>
     <li>🛠️ Worked with MySQL, MongoDB, Firebase, and Blender.</li>
   </ul>
