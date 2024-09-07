@@ -5,103 +5,65 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 text-gray-800">
+<body>
 
-<h1 class="text-4xl text-center my-6">Hi, here Kushal Pipaliya 👋</h1>
+<h1 align="center">Hi, here Kushal Pipaliya 👋</h1>
 
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg">
-  <h2 class="text-2xl font-semibold mb-4">About Me</h2>
-  <ul class="list-disc list-inside mb-4">
-    <li>Passionate Web Developer with a keen interest in Cyber Security</li>
-    <li>💻 Currently mastering Web Development with a focus on robust and secure applications.</li>
-    <li>🚀 On a journey to explore HTML5, CSS3, Tailwind CSS, JavaScript, React.js, C++, C#, Java, Shell, Python, PHP, JSP, ASP.NET, and Android.</li>
-    <li>🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.</li>
-  </ul>
-</section>
+## About Me
+-  Passionate Web Developer with a keen Interest in Cyber Security
+- 💻 Currently mastering Web Development with a focus on robust and secure applications.
+- 🚀  On a journey to explore HTML5, CSS3, Tailwind css, JavaScript, React.js, C++, C#, Java, Shell, Python, PHP, JSP, ASP.NET, and Android
+- 🌐 Excited to dive into the world of ethical hacking, exploring the latest tools in Kali Linux.
 
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6">
-  <h2 class="text-2xl font-semibold mb-4">Cyber Security & Penetration Testing</h2>
-  <ul class="list-disc list-inside mb-4">
-    <li>🕵️ Actively engaged in ethical hacking methodologies.</li>
-    <li>🔐 Specializing in security concepts to ensure applications are robust against threats.</li>
-    <li>🌐 Explore my cybersecurity website: <a href="https://smartlearningwithkhp.netlify.app/" class="text-blue-500 hover:underline">Smart Learning with KHP</a></li>
-    <li>🛠️ Proficient in using Kali Linux tools such as:
-      <ul class="list-disc list-inside ml-6">
-        <li>Burp Suite</li>
-        <li>Metasploit</li>
-        <li>Nmap</li>
-        <li>Wireshark</li>
-        <li>and more.</li>
-      </ul>
-    </li>
-    <li>🚨 Experienced in identifying and addressing vulnerabilities in web applications.</li>
-    <li>📚 Currently delving into advanced topics like:
-      <ul class="list-disc list-inside ml-6">
-        <li>Advanced Web Application Security</li>
-        <li>Security Automation</li>
-        <li>Threat Intelligence</li>
-        <li>Exploit Development</li>
-        <li>Secure Coding Practices</li>
-      </ul>
-    </li>
-    <li>🔍 Engaged in continuous learning through Capture The Flag (CTF) challenges and vulnerability research.</li>
-    <li>📜 Writing articles and tutorials on cybersecurity to share knowledge with the community.</li>
-    <li>🔧 Utilizing advanced techniques like:
-      <ul class="list-disc list-inside ml-6">
-        <li>Network Traffic Analysis</li>
-        <li>Incident Response</li>
-        <li>Forensics</li>
-        <li>Social Engineering</li>
-      </ul>
-    </li>
-  </ul>
-</section>
+## Cyber Security & Penetration Testing
+- 🕵️ Actively engaged in ethical hacking methodologies.
+- 🔐 Specializing in security concepts, ensuring applications are robust against threats.
+- 🛠️ Proficient in using Kali Linux tools such as:
+  - Burp Suite
+  - Metasploit
+  - Nmap
+  - Wireshark
+  - etc.
+- 🚨 Experienced in identifying and addressing vulnerabilities in web applications.
+- 📚 Currently delving into advanced topics like:
+  - Advanced Web Application Security
+  - Security Automation
+  - Threat Intelligence
+  - Exploit development
+  - Secure coding practices
+    
+## Languages and Tech Toolbox
+- 👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell, JavaScript, React.js, and Tailwind CSS.
+- 📱 Experienced in Android development.
+- 🛠️ Worked with Mysql , MongoDB, Firebase.
+- 🎨 Blender.
 
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6">
-  <h2 class="text-2xl font-semibold mb-4">Languages and Tech Toolbox</h2>
-  <ul class="list-disc list-inside mb-4">
-    <li>👨‍💻 Proficient in C++, C#, Java, Python, HTML5, CSS, Shell, JavaScript, React.js, and Tailwind CSS.</li>
-    <li>📱 Experienced in Android development.</li>
-    <li>🛠️ Worked with MySQL, MongoDB, Firebase, and Blender.</li>
-  </ul>
-</section>
-
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6 text-center">
-  <h2 class="text-2xl font-semibold mb-4">Let's Connect!</h2>
-  <div class="flex justify-center space-x-4 mb-6">
-    <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/PipaliyaKushal5" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="mailto:21bmiit129@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.instagram.com/_kushal_pipaliya/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://portfoliobykushal.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio">
-    </a>
+## Let's Connect!
+<p align="center">
+  <div  align="center"> 
+    <a  align="center" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a  align="center" href="https://twitter.com/PipaliyaKushal5" target="_blank" ><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a  align="center" href="mailto:21bmiit129@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a  align="center" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a  align="center" href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   </div>
-</section>
+</p>
 
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6 text-center">
-  <h3 class="text-2xl font-semibold mb-4 text-purple-500">Statistics</h3>
-  <div class="flex justify-center space-x-4 mb-6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal129&theme=2077" height="180em" alt="GitHub Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushal129&theme=2077" height="180em" alt="Most Commit Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal129&theme=2077" height="180em" alt="Repos Per Language">
-  </div>
-</section>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center" style="font-size: 2.25em;
+    color: #ea42ff" >Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal129&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushal129&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal129&theme=2077" height="180em" />
+</div>
 
-<section class="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-lg mt-6 text-center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
-  <div class="mt-6">
-    <img src="https://profile-counter.glitch.me/Kushal129/count.svg?" alt="Profile Counter">
-  </div>
-</section>
+![Profile GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kushal129/count.svg?" />
+</div>
 </body>
 </html>
