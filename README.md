@@ -41,11 +41,12 @@
 ## Let's Connect!
 <p align="center">
   <div  align="center"> 
+    <a  align="center" href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a> <br>
     <a  align="center" href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a  align="center" href="https://x.com/KushalPipaliya5" target="_blank" ><img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-    <a  align="center" href="mailto:21bmiit129@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a  align="center" href="https://www.instagram.com/_kushal_pipaliya/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a  align="center" href="https://portfoliobykushal.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/-Portfolio-%8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+    <br>
+    <a  align="center" href="https://x.com/KushalPipaliya5" target="_blank" ><img src="https://img.shields.io/badge/--%23333?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+    <br>
+    <a  align="center" href="mailto:21bmiit129@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 </p>
 
