@@ -14,10 +14,15 @@
 <h1 align="center">Hi👋, I'm Kushal Pipaliya!</h1>
 
 ###
-
 <h3 align="left">👩‍💻 About Me</h3>
 
-<br clear="both">
+<hr style="border: 0; border-top: 2px solid #1e4300; margin-bottom: 20px;">
+
+<h5 align="left">
+  As a cybersecurity enthusiast with a strong background in web development, I am committed to crafting secure and intuitive applications that tackle real-world security issues. My expertise lies in developing sophisticated tools to bolster security and constructing responsive websites with the latest technologies and frameworks. I am passionate about embedding security throughout the development lifecycle. Let's work together to bring your visions to life!
+</h5>
+
+<hr style="border: 0; border-top: 1px solid #1e4300; margin-top: 20px;">
 
 <h5 align="left">
   🔭 I'm currently working on "Smart Learning with KHP" and developing cutting-edge cybersecurity tools.<br><br>
@@ -28,7 +33,10 @@
   ⚡ Fun Fact: <strong>HACK YOUR LIFE, WORK HARD, CODE SMART!</strong>
 </h5>
 
+<hr style="border: 0; border-top: 2px solid #1e4300; margin-top: 20px;">
+
 ###
+
 <p align="center">
 <div align="center">
   <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
