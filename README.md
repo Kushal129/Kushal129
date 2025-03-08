@@ -1,13 +1,7 @@
-<div align="center">
-<!--   <img height="300" src="https://res.cloudinary.com/day0qlfda/image/upload/v1736410765/nly77o9pgb2b9o0fzpjj.png" /> -->
-</div>
-###
-<br clear="both">
-###
-<h1 align="center">Hi👋, I'm Kushal Pipaliya!</h1>
-###
-<h3 align="left">👩‍💻 About Me</h3>
 
+<h1 align="center">Hi👋, I'm Kushal Pipaliya!</h1>
+
+<h3 align="left">👩‍💻 About Me</h3>
 
 <h5 align="left">
   As a cybersecurity enthusiast with a strong background in web development, I am committed to crafting secure and intuitive applications that tackle real-world security issues. My expertise lies in developing sophisticated tools to bolster security and constructing responsive websites with the latest technologies and frameworks. I am passionate about embedding security throughout the development lifecycle. Let's work together to bring your visions to life!
