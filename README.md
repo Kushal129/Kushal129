@@ -14,7 +14,7 @@
   🌱 I'm exploring advanced cybersecurity concepts, focusing on building practical tools and mastering this rapidly evolving field.<br><br>
   💬 Feel free to ask me about security auditing, cybersecurity tools, web development, or anything tech-related!<br><br>
   📫 Reach me at <a href="mailto:kushalhpipaliya01@gmail.com">kushalhpipaliya01@gmail.com</a><br><br>
-  📄 View my full resume <a href="https://portfoliobykushal.netlify.app/KushalPipaliya_Resume.pdf">here</a><br><br>
+  📄 View my full resume <a href="https://portfoliobykushal.netlify.app/">here</a><br><br>
   ⚡ Fun Fact: <strong>HACK YOUR LIFE, WORK HARD, CODE SMART!</strong>
 </h5>
 
