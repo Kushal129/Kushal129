@@ -1,197 +1,88 @@
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Kushal129&label=VISITORS&countColor=%23000000&labelStyle=upper" width="160" />
-</p>
+<h1 align="center">Hi👋, I'm Kushal Pipaliya!</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=KUSHAL+PIPALIYA;SECURITY+ENGINEER;VAPT+SPECIALIST;FULL+STACK+DEV" alt="Header" />
-</h1>
+<h3 align="left">👩‍💻 About Me</h3>
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/kushal555.png" alt="TryHackMe" width="250"/>
-</div>
+<h5 align="left">
+  As a cybersecurity enthusiast with a strong background in web development, I am committed to crafting secure and intuitive applications that tackle real-world security issues. My expertise lies in developing sophisticated tools to bolster security and constructing responsive websites with the latest technologies and frameworks. I am passionate about embedding security throughout the development lifecycle. Let's work together to bring your visions to life!
+</h5>
 
----
+<hr style="border: 0; border-top: 2px solid #1e4300; margin-top: 20px;">
 
-<div align="center">
-  <table align="center" border="0" cellpadding="10" cellspacing="0" width="90%">
-    <tr>
-      <td width="30%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1bHl6cGp0YjJqcjY5cGp4c2U4dThiY3RzbzFpMW1hdGZ6bXM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TtX2qqpxG3hWGj4n3/giphy.gif" width="200"/>
-      </td>
-      <td width="70%" align="left">
-        <h2>⚡ WHOAMI</h2>
-        <b>Cybersecurity Engineer & Full Stack Developer</b><br><br>
-        🔭 Building: Smart Learning KHP & Security Tools<br>
-        🌱 Learning: Advanced Red Teaming & Malware Analysis<br>
-        💬 Ask me: VAPT, Web Security, Python, Linux<br>
-        📍 Based: India<br>
-        ☕ Status: Coffee & Code<br>
-        <br>
-        <i>"WE DO THINGS for those we'll never meet"</i>
-      </td>
-    </tr>
-  </table>
-</div>
+<h5 align="left">
+  🔭 I'm currently working on "Smart Learning with KHP" and developing cutting-edge cybersecurity tools.<br><br>
+  🌱 I'm exploring advanced cybersecurity concepts, focusing on building practical tools and mastering this rapidly evolving field.<br><br>
+  💬 Feel free to ask me about security auditing, cybersecurity tools, web development, or anything tech-related!<br><br>
+  📄 View my full resume <a href="https://portfoliobykushal.netlify.app/">here</a><br><br>
+  ⚡ Fun Fact: <strong>HACK YOUR LIFE, WORK HARD, CODE SMART!</strong>
+</h5>
 
----
+<hr style="border: 0; border-top: 2px solid #1e4300; margin-top: 20px; !important">
 
-<div align="center">
-  <h2>🛡️ COMMAND & CONTROL</h2>
-  
-  <a href="https://linkedin.com/in/kushal-pipaliya"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9D"/></a>
-  <a href="mailto:kushalhpipaliya01@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D"/></a>
-  <a href="https://tryhackme.com/r/p/kushal555"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9D"/></a>
-  <a href="https://portfoliobykushal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF9D"/></a>
-</div>
-
----
-
-<div align="center">
-  <h2>🔧 TOOLKIT</h2>
-  
-  <table border="0" cellpadding="5" width="90%">
-    <tr>
-      <td align="right" width="20%"><b>SECURITY</b></td>
-      <td width="80%">
-        <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat&logo=burpsuite&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=00FF9D"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>LANGUAGES</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00FF9D"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>INFRA</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonwebservices&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00FF9D"/>
-        <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00FF9D"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h2>📊 OPERATIONAL METRICS</h2>
-  
-  <table border="0" cellpadding="10" width="90%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kushal129&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal129&hide_border=true&background=000000&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=808080" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal129&layout=compact&hide_border=true&bg_color=000000&title_color=00FF9D&text_color=FFFFFF" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Kushal129&limit=3&hide_border=true&bg_color=000000&title_color=00FF9D&text_color=FFFFFF&combine_all_yearly_contributions=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h2>🏆 ACHIEVEMENTS</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushal129&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
-</div>
-
----
-
-<div align="center">
-  <h2>📌 DEPLOYED PROJECTS</h2>
-  
-  <table border="0" cellpadding="15" width="90%">
-    <tr>
-      <td width="50%" align="center">
-        <b>🛡️ SECURITY TOOLKIT</b><br>
-        <sub>Automated pentesting suite</sub>
-      </td>
-      <td width="50%" align="center">
-        <b>📚 SMART LEARNING KHP</b><br>
-        <sub>Secure ed-tech platform</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <b>🔐 VAPT AUTOMATION</b><br>
-        <sub>Vulnerability scanner</sub>
-      </td>
-      <td width="50%" align="center">
-        <b>⚡ AUTH SYSTEM</b><br>
-        <sub>Multi-factor auth</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h2>📡 CURRENT STATUS</h2>
-  
-  <table border="1" cellpadding="10" width="70%" style="border-color:#00FF9D;">
-    <tr>
-      <td align="left"><b>🚀 FOCUS:</b></td>
-      <td>Advanced Red Teaming</td>
-    </tr>
-    <tr>
-      <td align="left"><b>⚙️ BUILDING:</b></td>
-      <td>Custom C2 Framework</td>
-    </tr>
-    <tr>
-      <td align="left"><b>📖 READING:</b></td>
-      <td>Web Application Hacker's Handbook</td>
-    </tr>
-    <tr>
-      <td align="left"><b>🎯 TARGET:</b></td>
-      <td>OSCP Certification</td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h1>⚡</h1>
-  <h2>WE DO THINGS FOR THOSE WE'LL NEVER MEET</h2>
-  <h1>⚡</h1>
-  
-  <br>
-  <img src="https://raw.githubusercontent.com/Kushal129/Kushal129/output/snake.svg" width="90%"/>
-  <br><br>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-  <br><br>
-  
-  <img src="https://profile-counter.glitch.me/Kushal129/count.svg?"/>
-  <br><br>
-  
-  <i>Open for security research & collaboration</i><br>
-  <b>kushalhpipaliya01@gmail.com</b>
-</div>
-
----
+###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Let's_build_something_secure-000000?style=for-the-badge&logo=github&logoColor=00FF9D"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:kushalhpipaliya01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
+  <a href="https://tryhackme.com/r/p/kushal555" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe logo" />
+  </a>
+</div>
 </p>
+
+<h3 align="left">🛠 Skills & Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushal129&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushal129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="Languages" />
+  <img src="https://github-profile-trophy.vercel.app?username=Kushal129&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal129&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="Activity" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kushal129/count.svg?" />
+</div>
+
+###
