@@ -1,89 +1,147 @@
+<!-- =============================== -->
+<!--        HEADER SECTION           -->
+<!-- =============================== -->
 
-<h1 align="center">Hi👋, I'm Kushal Pipaliya!</h1>
+<h1 align="center">
+  Hey 👋 I'm Kushal Pipaliya
+</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
-
-<h5 align="left">
-  As a cybersecurity enthusiast with a strong background in web development, I am committed to crafting secure and intuitive applications that tackle real-world security issues. My expertise lies in developing sophisticated tools to bolster security and constructing responsive websites with the latest technologies and frameworks. I am passionate about embedding security throughout the development lifecycle. Let's work together to bring your visions to life!
-</h5>
-
-<hr style="border: 0; border-top: 2px solid #1e4300; margin-top: 20px;">
-
-<h5 align="left">
-  🔭 I'm currently working on "Smart Learning with KHP" and developing cutting-edge cybersecurity tools.<br><br>
-  🌱 I'm exploring advanced cybersecurity concepts, focusing on building practical tools and mastering this rapidly evolving field.<br><br>
-  💬 Feel free to ask me about security auditing, cybersecurity tools, web development, or anything tech-related!<br><br>
-  📄 View my full resume <a href="https://portfoliobykushal.netlify.app/">here</a><br><br>
-  ⚡ Fun Fact: <strong>HACK YOUR LIFE, WORK HARD, CODE SMART!</strong>
-</h5>
-
-<hr style="border: 0; border-top: 2px solid #1e4300; margin-top: 20px; !important">
-
-###
+<h3 align="center">
+  🔐 Cybersecurity Researcher | VAPT Specialist | Secure Web Developer
+</h3>
 
 <p align="center">
-<div align="center">
-  <a href="https://www.linkedin.com/in/kushal-pipaliya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:kushalhpipaliya01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-  <a href="https://tryhackme.com/r/p/kushal555" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe logo" />
-  </a>
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF99&center=true&vCenter=true&width=750&lines=Vulnerability+Assessment+%26+Penetration+Testing;Secure+Application+Developer;Red+Team+Mindset+%7C+Blue+Team+Strategy;Building+Security+Tools+%7C+Automating+Defense" />
 </p>
 
-<h3 align="left">🛠 Skills & Tools</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kushal129&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
-</div>
+# 👨‍💻 About Me
 
-###
+I am a **Cybersecurity Enthusiast & VAPT Practitioner** with a strong foundation in secure application development.
 
-<h3 align="left">🔥 My Stats</h3>
+My focus areas:
 
-###
+- 🔍 Web & Network Vulnerability Assessment  
+- 🎯 Penetration Testing & Exploitation  
+- 🛡 Secure SDLC Implementation  
+- ⚙️ Automation of Security Testing  
+- 🌐 Building Secure & Scalable Web Applications  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushal129&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushal129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="Languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=Kushal129&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="Trophies" />
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal129&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="Activity" /> -->
-</div>
+I combine a **Red Team attacker mindset** with **Blue Team defensive strategy** to develop hardened systems and advanced security tooling.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kushal129/count.svg?" />
-</div>
+> ⚡ Philosophy: **Hack Smart. Defend Strong. Build Secure.**
 
-###
+---
+
+# 🚀 Current Focus
+
+- 🔭 Developing **Smart Learning with KHP**
+- 🧪 Building Custom VAPT & Automation Tools
+- 📚 Studying Advanced Exploitation Techniques
+- 🎯 Practicing on Labs (TryHackMe, HTB, Real-world scenarios)
+
+---
+
+# 🛠 Core Technical Stack
+
+## 🔐 Security & VAPT
+- Web App Security Testing
+- API Security Testing
+- Network Scanning
+- Manual Exploitation
+- Vulnerability Reporting
+- Risk Assessment
+- Security Hardening
+  
+## 💻 Programming & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,js,react,tailwind,mysql,firebase,linux,bash,aws" />
+</p>
+
+## 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,androidstudio,blender,ps,ai" />
+</p>
+
+---
+
+# 🛡 VAPT Expertise
+
+✔️ Authentication & Authorization Testing  
+✔️ IDOR, SQLi, XSS, CSRF Detection  
+✔️ Access Control Misconfiguration  
+✔️ Business Logic Vulnerabilities  
+✔️ API Endpoint Testing  
+✔️ Firewall & Network Misconfiguration  
+✔️ Security Reporting with CVSS  
+
+I specialize in preparing **clear, professional vulnerability reports** including:
+
+- Executive Summary  
+- Risk Rating  
+- Impact Assessment  
+- PoC Evidence  
+- Remediation Recommendations  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kushal129&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal129&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal129&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kushal129&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🧠 Cybersecurity Training
+
+<p align="center">
+  <a href="https://tryhackme.com/r/p/kushal555">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kushal555.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+# 🌐 Portfolio
+
+📄 **Resume & Portfolio**  
+👉 https://portfoliobykushal.netlify.app/
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushal-pipaliya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kushalhpipaliya01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/r/p/kushal555">
+    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Motto
+
+<h3 align="center">
+  🔥 HACK YOUR LIMITS | BUILD SECURE SYSTEMS | STAY AHEAD 🔥
+</h3>
