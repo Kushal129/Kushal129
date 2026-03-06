@@ -24,6 +24,6 @@ It is about seeing what others overlook.
 ---
 <div align="center">
 
-### WE DO THINGS FOR THOSE WE NEVER MEET
+### - WE DO THINGS FOR THOSE WE NEVER MEET - 
 
 </div>
